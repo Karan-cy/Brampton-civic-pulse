@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Brampton IMS Local",
+            "database": "brampton_ims",
+            "username": "postgres"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "asset_id": "INF-BRAMP-2026-001",
+    "name": "Main Street Water Main Node",
+    "type": "Water & Sewage",
+    "coordinates": {
+      "latitude": 43.6853,
+      "longitude": -79.7599
+    },
+    "ai_risk_score": 87,
+    "anomaly_type": "Ground Subsidence / Sinking",
+    "status": "Critical Intervention",
+    "last_inspected": "2026-02-14",
+    "reported_by": "Satellite Telemetry (Sentinel-2)"
+  },
+  {
+    "asset_id": "INF-BRAMP-2026-002",
+    "name": "Bovaird Drive Overpass Structure",
+    "type": "Bridges & Overpasses",
+    "coordinates": {
+      "latitude": 43.7121,
+      "longitude": -79.7284
+    },
+    "ai_risk_score": 42,
+    "anomaly_type": "Minor Concrete Spalling",
+    "status": "Monitoring",
+    "last_inspected": "2026-05-01",
+    "reported_by": "Citizen Public Portal"
+  },
+  {
+    "asset_id": "INF-BRAMP-2026-003",
+    "name": "Queen Street Transit Corridor Asphalt",
+    "type": "Roads & Transportation",
+    "coordinates": {
+      "latitude": 43.6791,
+      "longitude": -79.7402
+    },
+    "ai_risk_score": 18,
+    "anomaly_type": "None",
+    "status": "Operational",
+    "last_inspected": "2026-06-20",
+    "reported_by": "City Maintenance Crew"
+  }
+]
