@@ -1,4 +1,7 @@
+![Brampton-civic-pulse](./images/dashboardss.png)
+
 🏙️ Brampton Infrastructure Management System (CivicPulse)
+
 A secure, decoupled 4-tier smart-city platform designed to help municipal authorities monitor, manage, and predict infrastructure risks using satellite telemetry and real-time data analytics.
 
 📖 Project Overview
